@@ -6,3 +6,4 @@ Cara Instalasi :
 4. Konfigurasi file .env
 5. ketik php artisan key:generate di terminal
 6. ketik php artisan migrate
+7. selesai
